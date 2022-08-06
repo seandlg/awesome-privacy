@@ -10,7 +10,9 @@ Large data-hungry corporations dominate the digital world but with little, or no
 Migrating to open-source applications with a strong emphasis on security will help stop
 corporations, governments, and hackers from logging, storing or selling your personal data.
 
-**Note**: Remember that [no software is perfect](#disclaimer), and it is important to follow good [security practices](https://github.com/Lissy93/personal-security-checklist/blob/master/README.md#contents)
+**Note**: Remember that [no software is perfect](#disclaimer), and it is important to follow good [security practices](https://github.com/Lissy93/personal-security-checklist/blob/master/README.md#contents).
+
+A Codeberg mirror is available [here](https://codeberg.org/alicia/awesome-privacy).
 
 ### Categories
 
@@ -297,7 +299,7 @@ Email clients are the programs used to interact with the mail server. For hosted
 
 | Provider | Description |
 | --- | --- |
-**[Mozilla Thunderbird](https://www.thunderbird.net)** (Desktop) | Free and open source email application developed and backed by Mozilla -it's secure, private easy and customizable. ~~The [Enigmail](https://www.enigmail.net) add-on allows for easy encryption/ decryption of PGP messages~~ (as of V 78.2.1 encryption is built in), and the [TorBirdy](https://trac.torproject.org/projects/tor/wiki/torbirdy) extension routes all traffic through the Tor network.
+**[Mozilla Thunderbird](https://www.thunderbird.net)** (Desktop) | Free and open source email application developed and backed by Mozilla -it's secure, private easy and customizable. ~~The [Enigmail](https://www.enigmail.net) add-on allows for easy encryption/ decryption of PGP messages~~ (as of V 78.2.1 encryption is built in), and the [TorBirdy](https://trac.torproject.org/projects/tor/wiki/torbirdy) extension routes all traffic through the Tor network. Forks, such as [Betterbird](https://github.com/Betterbird/thunderbird-patches) may add additional features
 **[eM Client](https://www.emclient.com/)** (Desktop) | Productivity-based email client, for Windows and MacOS. eM Client has a clean user interface, snappy performance and good compatibility. There is a paid version, with some handy features, including snoozing incoming emails, watching for replies for a specific thread, message translation, send later, and built-in Calendar, Tasks, Contacts and Notes. Note, eM Client is propriety, and not open source
 **[RainLoop](http://www.rainloop.net)** (Web) | Simple, modern, fast web-based mail client
 **[RoundCube](https://roundcube.net)** (Web) | Browser-based multilingual IMAP client with an application-like user interface. It provides full functionality you expect from an email client, including MIME support, address book, folder manipulation, message searching and spell checking
@@ -1427,7 +1429,7 @@ Moving away from Google, and using multiple alternative apps will mean there is 
 Community-maintained media software can help you migrate away from providers that may not respect privacy. The following creative software packages are open source, cross-platform and free.
 
 - Graphics: [GIMP](https://www.gimp.org), [Scribus](https://www.scribus.net), [SwatchBooker](http://www.selapa.net/swatchbooker), [InkScape](https://inkscape.org), [Krita](https://krita.org)
-- Audio: [Audacity](https://www.audacityteam.org), [Mixxx](https://mixxx.org), [MusicBrainz](https://picard.musicbrainz.org), [Qtractor](https://qtractor.sourceforge.io)
+- Audio: [Audacity](https://www.audacityteam.org), [Mixxx](https://mixxx.org), [MusicBrainz](https://picard.musicbrainz.org), [Qtractor](https://qtractor.sourceforge.io), [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
 - Video: [Shortcut](https://www.shotcutapp.com), [OpenShot](https://www.openshot.org), [kdenlive](https://kdenlive.org)
 - Video Transcoders: [HandBreak](https://handbrake.fr)
 - Media Players: [VLC Player](https://www.videolan.org)
